@@ -1,4 +1,4 @@
-# 周汇总 2020.02.16
+# 周汇总 2029.03.29
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,41 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
-- [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
-- [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
-- [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
-- [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
-- [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
-- [html5应该注意哪些安全的问题？](https://github.com/haizlin/fe-interview/issues/1880)
+- [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+- [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
+- [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
+- [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+- [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
+- [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
+- [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
 
 ## css
-- [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
-- [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
-- [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
-- [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
-- [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
-- [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
-- [如何取消从父级元素继承下来的CSS样式呢？](https://github.com/haizlin/fe-interview/issues/1881)
+- [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+- [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
+- [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
+- [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+- [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
+- [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
+- [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
 
 ## js
-- [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
-- [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
-- [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
-- [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
-- [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
-- [axios相比原生ajax的优点有哪些呢？](https://github.com/haizlin/fe-interview/issues/1893)
-- [axios为什么能在浏览器中环境运行又能在node中环境运行？](https://github.com/haizlin/fe-interview/issues/1882)
+- [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+- [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+- [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+- [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+- [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+- [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+- [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
 
 ## 软技能
-- [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
-- [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
-- [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
-- [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
-- [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
-- [TCP和UDP属于计算机网络中的哪一层？](https://github.com/haizlin/fe-interview/issues/1894)
-- [OSI七层模型指的是哪七层？](https://github.com/haizlin/fe-interview/issues/1883)
-
+- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
 
 
 ## 全部

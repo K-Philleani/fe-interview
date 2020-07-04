@@ -1,5 +1,7 @@
 # Front-end interview **3+1** per day（Three questions per day）
 
+## :tada::tada::tada: [2020.5.20, 3+1 Official website online！](http://www.h-camel.com/index.html):tada::tada::tada:
+
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <!-- <p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p> -->
@@ -14,13 +16,14 @@
 
 ## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
-> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
+> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day).
+> Confucius said, "don't be angry, don't be sad. If one corner is not reversed by three corners, it will be no longer. " 
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
-> Let hard work become a habit, let struggle become a kind of enjoyment!
+> Let hard work become a habit, let struggle become a kind of enjoyment!  
 > Believe in the power of **perseverance**！！！
 
 ---
-- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
+- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.(**Knock oneself**).
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
@@ -36,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.02.28) —— 318 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
-- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
-- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
-- [skill] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
+## Today's Knowledge Points (2020.07.04) —— 445 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
+- [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
+- [js] [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
+- [skill] [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 316 days (2020.02.26)
-    - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
-	- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
-	- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-	- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+- 443 days (2020.07.02)
+    - [html] [请实现一个网站加载进度条](https://github.com/haizlin/fe-interview/issues/2586)
+	- [css] [如果要你自己设计一个css框架，说说你的思路](https://github.com/haizlin/fe-interview/issues/2587)
+	- [js] [获取浏览器当前页面的滚动条高度的兼容写法](https://github.com/haizlin/fe-interview/issues/2588)
+	- [skill] [你有参与过哪些开源项目吗？有给项目提交过PR吗？](https://github.com/haizlin/fe-interview/issues/2589)
 	
 
-- 317 days (2020.02.27)
-    - [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
-	- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
-	- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
-	- [skill] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
+- 444 days (2020.07.03)
+    - [html] [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
+	- [css] [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
+	- [js] [js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/haizlin/fe-interview/issues/2592)
+	- [skill] [5G即将到来，你觉得对前端将面临什么挑战和机遇呢？](https://github.com/haizlin/fe-interview/issues/2593)
 	
 
 - **[All](category/history.md)**
@@ -121,6 +124,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
 - [cxwht](https://github.com/cxwht)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -168,13 +172,29 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
 - 2019.09.18 — 今天一看关注数增加了不少，才发现又一次上了github热门榜，第三次了，看来爱学习的朋友很多！
 - 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
-- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
+- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
 - 2020.02.28 — 第317天，第7次登上github热门榜！
+- 2020.03.09 — 第328天，第8次登上github热门榜！去年年底说的官网的事还没上线，不找理由，继续期待吧，满一年的时候会实现的
+- 2020.03.11 — 第330天，star数突破10000，真正跨入万人项目了，在这公布下数据统计（真开源，敢反馈） ：
+    - 坚持每天4.30-5:00之间发布3+1题目，第330天
+    - github有10000人关注，全球开源项目排名第1468名
+    - 总共发布2012道题，涉及html/javascript/css/skill/vue/react/es/nodejs/jquery等题目，前端类题目全球排名第一，包含各大厂商 
+    - 共有39个作者贡献了题目
+    - 总共1250位朋友参与答题，共有6165条回复
+    - 公众号有3710位朋友关注
+    - 有8次上了github全球热门榜
+    - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
+    - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
+- 2020.04.16 — 第366天，前端面试每日3+1，满一年啦，366天从未间断，感谢大家的陪伴与参与！！！未来的日子会继续努力做得更好！
+- 2020.05.20 — 第400天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
+- 2020.05.21 — 第401天，第9次登上github热门榜！
+- 2020.06.03 — 第415天，第10次登上github热门榜！
+- 2020.06.30 — 第441天，第11次登上github热门榜！
 
 ## Source
-- [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
+- [前端向朔](https://blog.csdn.net/u013778905)（CSDN Daily Synchronized Updates）
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
 - [Github](https://github.com/haizlin/fe-interview)（Daily Synchronized Updates）
@@ -202,6 +222,9 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
 * [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [达达前端](https://github.com/webVueBlog/vueblog) （公众号 「达达前端」作者，一个热爱前端的达达程序员）
+* [前端高校](https://github.com/webVueBlog/vueblog) （公众号 「前端高校」作者，置身世外只为暗中观察）
+* [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d) （web前端开发工程师）
 * [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
 * [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
@@ -218,6 +241,7 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [前端小智](https://juejin.im/user/59df61ec51882578ce26ee6e)（公众号「大迁世界」作者）
 * [ConardLi](https://github.com/ConardLi)（公众号「code秘密花园」作者）
 * [RobinsonZhang](https://github.com/robinson90)（公众号「达摩空间」作者，爱分享，爱挑战，技术狂热，不断写作，前沿布道。 我们从小白到大师，慢慢来。）
+* [Wscats](https://github.com/Wscats/articles)（公众号「前端漫游」作者，始于前端但不止于前端。）
 * [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)（前端早读课的姊妹篇，每天一个前端知识点，苦练前端真功夫）
 * [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)（每日一题（开开森森学前端系列））
 * [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）

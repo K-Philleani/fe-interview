@@ -2,10 +2,43 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.16
+> 最新：2029.03.29
 
-## 软技能
-
+- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
+- [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
+- [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
+- [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
+- [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+- [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
+- [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
+- [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
+- [解释下后端渲染与前端渲染有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2065)
+- [你们前端项目是怎么做监控（埋点）的？都监控哪些维度的数据呢？](https://github.com/haizlin/fe-interview/issues/2060)
+- [你了解什么是极限编程吗？](https://github.com/haizlin/fe-interview/issues/2050)
+- [PWA如何改变我们的移动体验？](https://github.com/haizlin/fe-interview/issues/2046)
+- [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
+- [请问单元测试和集成测试有什么区别？](https://github.com/haizlin/fe-interview/issues/2036)
+- [举例说明你对时间复杂度和空间复杂度的理解](https://github.com/haizlin/fe-interview/issues/2026)
+- [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
+- [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
+- [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
+- [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+- [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
+- [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
+- [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
+- [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
+- [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
+- [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
+- [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
+- [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+- [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
+- [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
 - [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
 - [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
 - [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
