@@ -15,7 +15,7 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (2500 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.12) —— 453 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [表单可以跨域吗？](https://github.com/haizlin/fe-interview/issues/2632)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css子元素会继承父元素的font-size吗？请解释下面父子元素各字体的大小[代码]](https://github.com/haizlin/fe-interview/issues/2633)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [给你一个页面，找出该页面使用最多的前三个标签以及他们的数量](https://github.com/haizlin/fe-interview/issues/2634)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [开发H5时，你都用哪些真机测试呢？](https://github.com/haizlin/fe-interview/issues/2635)  
+## :clock430: Today's Knowledge Points (2020.07.29) —— 470 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作页面时，前端如何适应各种异形屏？](https://github.com/haizlin/fe-interview/issues/2704)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [z-index可以是负数吗？](https://github.com/haizlin/fe-interview/issues/2705)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法监听DOM宽高的变化](https://github.com/haizlin/fe-interview/issues/2706)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [markdown文件如何实现页面内跳转？](https://github.com/haizlin/fe-interview/issues/2707)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 452 days (2020.07.11)  
-    	 :one: [html] [对于rtl网站的适配有哪些方案？](https://github.com/haizlin/fe-interview/issues/2628)  
-	 :two: [css] [你有用到以pt为单位过吗？pt单位有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2629)  
-	 :three: [js] [如何使用js实现撤消和重做并写出伪代码](https://github.com/haizlin/fe-interview/issues/2630)  
-	 :four: [skill] [位、字节、字符有什么区别？如何换算？](https://github.com/haizlin/fe-interview/issues/2631)  
+- 469 days (2020.07.28)  
+    	 :one: [html] [做好的页面，你是如何获取更好的搜索引擎优化？](https://github.com/haizlin/fe-interview/issues/2700)  
+	 :two: [css] [不加class和id使得倒数三个li背景色为红色](https://github.com/haizlin/fe-interview/issues/2701)  
+	 :three: [js] [下文Promise的执行顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2702)  
+	 :four: [skill] [说说你所在公司的git或svn提交注释的规范有哪些？](https://github.com/haizlin/fe-interview/issues/2703)  
  
 	
 - **[All](category/history.md)**
@@ -80,7 +80,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [CSDN](https://blog.csdn.net/u013778905) | [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [zhihu](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [jianshu](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault](https://segmentfault.com/blog/frontend-interview) | [weibo](https://weibo.com/haizlin) | [- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 ](https://toutiao.io/subjects/359261) | [kancloud](https://www.kancloud.cn/aya001001/fe-interview) | - [qianduanjianjie] wechat（Scan QR code，Daily Synchronized Updates）
 
-### :family: Events
+### :fire: Events
 * [See more](./resource/md/event.md)
 
 ### :family: Friendship Links
